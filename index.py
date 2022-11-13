@@ -76,6 +76,16 @@ print('============')
 #     print('PROCEED')
 # print('==========')
 
+import numpy as np
+a = np.array(range(1, 10))
+print(np.random.choice(a))
+# if a < 5 :
+#     print('Mission Failed')
+# else :
+#     print('Success')
+
+
+# from matplotlib import pyplot as plt
 
 
 
